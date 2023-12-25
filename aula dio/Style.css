@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+
+#bodyy{
+    margin:10px 200px;
+    text-align: center;
+    
+}
+#Ptopo{
+    background: linear-gradient(#0099FF, #0146F5, black); 
+    height: 250px;
+    width: auto;
+    border: 2PX solid #000000;
+    
+    
+    
+}
+#nomeSite{
+    text-align: center;
+    font-family: Rubik Doodle Shadow;
+    font-size:120px; 
+    padding: 50px ;
+    color: white;
+    
+    
+}
+nav{
+    text-align: right;
+}
+#menu{
+   display: inline-block;
+   margin: 0 50px;
+   
+}
+#listaMenu{
+    display: inline;
+    text-align:  center;
+    font-weight: bold;
+    margin: 10px;
+    color: white;
+    border: 1px solid ;
+    padding: 5px;
+}
+
+#titulotexto{
+    font-size: 35px ;
+    font-weight: bolder;
+    margin: 20px;
+    font-family: Rubik Doodle Shadow;
+}
+
+#textoqualquer{
+    width:400px;
+    height:400px;
+    margin: 20px;
+    overflow: scroll;
+    display: inline-block;
+}
+
+#imagemex{
+    width:400px;
+    height:400px;
+    margin: 20px;
+
+}
+
+#rodape{
+    height: 250px;
+    width: auto;
+    text-align: center;  
+    border: 2PX solid #000000;
+    background: linear-gradient(#000000, #0146F5, #0099FF);
+    
+}
+#menuRodape{
+    padding: 30PX;
+    display: inline-block;
+    margin: 0 20px; 
+   
+}
+#listaRodape{
+    display: block;
+    text-align:center;
+    font-weight: bold;
+    margin: 10px;
+    color: white;
+    border: 1px solid;
+    padding: 5px;
+}
+#copy{
+    color: white;
+}
